@@ -1,3 +1,3 @@
-﻿# composer
-php composer 学习项目
-php composer 学习项目
+﻿# composer 学习
+
+本项目用于composer学习，可以随时删除
